@@ -25,7 +25,7 @@ To run test
 > go test -cover github.com/rbeathard/addressBook
 
 #### Run program
-addressBook can be ran in two modes: in memory or disk backed mode. The optional -f flag specifies the disk file.  address.json has been included to test.
+addressBook can be ran in one of two modes: in memory or disk backed mode. In the in memory mode, any updates will not lost upon termination of program. In disk backed mode, updates will be written to disk. The optional -f flag specifies the disk file.  address.json has been included to test.
 
 To start addressBook using the address.json test file. addressBook will listen on port 8000.
 >  bin/addressBook -f src/github.com/rbeathard/addressBook/address.json
