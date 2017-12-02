@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Geddy",
+    "lastName": "Lee",
+    "phoneNumber": "4082134444",
+    "email": "geddy@aws.com"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Peart",
+    "phoneNumber": "7135671111",
+    "email": "neil@azure.com"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Lifeson",
+    "phoneNumber": "9723245555",
+    "email": "alex@gcp.com"
+  }
+]
